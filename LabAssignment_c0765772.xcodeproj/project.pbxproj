@@ -13,6 +13,9 @@
 		4FD2AF6723CE70D60051CD6E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FD2AF6523CE70D60051CD6E /* Main.storyboard */; };
 		4FD2AF6923CE70DA0051CD6E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4FD2AF6823CE70DA0051CD6E /* Assets.xcassets */; };
 		4FD2AF6C23CE70DA0051CD6E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FD2AF6A23CE70DA0051CD6E /* LaunchScreen.storyboard */; };
+		4FD2AF7623CE72220051CD6E /* locationButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FD2AF7323CE72210051CD6E /* locationButton@2x.png */; };
+		4FD2AF7723CE72220051CD6E /* locationButton@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FD2AF7423CE72220051CD6E /* locationButton@3x.png */; };
+		4FD2AF7823CE72220051CD6E /* locationButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FD2AF7523CE72220051CD6E /* locationButton.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		4FD2AF6823CE70DA0051CD6E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4FD2AF6B23CE70DA0051CD6E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4FD2AF6D23CE70DA0051CD6E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4FD2AF7323CE72210051CD6E /* locationButton@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "locationButton@2x.png"; path = "../../FindMyWay_labAssignment1_c0765772/locationButton@2x.png"; sourceTree = "<group>"; };
+		4FD2AF7423CE72220051CD6E /* locationButton@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "locationButton@3x.png"; path = "../../FindMyWay_labAssignment1_c0765772/locationButton@3x.png"; sourceTree = "<group>"; };
+		4FD2AF7523CE72220051CD6E /* locationButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = locationButton.png; path = ../../FindMyWay_labAssignment1_c0765772/locationButton.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +63,9 @@
 			isa = PBXGroup;
 			children = (
 				4FD2AF5F23CE70D60051CD6E /* AppDelegate.swift */,
+				4FD2AF7523CE72220051CD6E /* locationButton.png */,
+				4FD2AF7323CE72210051CD6E /* locationButton@2x.png */,
+				4FD2AF7423CE72220051CD6E /* locationButton@3x.png */,
 				4FD2AF6123CE70D60051CD6E /* SceneDelegate.swift */,
 				4FD2AF6323CE70D60051CD6E /* ViewController.swift */,
 				4FD2AF6523CE70D60051CD6E /* Main.storyboard */,
@@ -126,8 +135,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				4FD2AF6C23CE70DA0051CD6E /* LaunchScreen.storyboard in Resources */,
+				4FD2AF7723CE72220051CD6E /* locationButton@3x.png in Resources */,
 				4FD2AF6923CE70DA0051CD6E /* Assets.xcassets in Resources */,
 				4FD2AF6723CE70D60051CD6E /* Main.storyboard in Resources */,
+				4FD2AF7823CE72220051CD6E /* locationButton.png in Resources */,
+				4FD2AF7623CE72220051CD6E /* locationButton@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
